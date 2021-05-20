@@ -10,8 +10,14 @@
 
 ## Test Anleitung: 
 
+### Vorschau
+
+Die oberste Seite soll so aussehen:
+
+![preview](./images/mock_uib_final_assessment_mockup.png)
+
 ### Bilder 
-* Verwende das Bild [hero.jpg](./solution/images/hero.jpg) als Hintergrundbild in dem Header. Das Bild sollte die ganze Breite des Headers einnehmen, es sollte sich nicht wiederholen und es sollte zentriert sein.  
+* Verwende das Bild [hero.jpg](./images/hero.jpg) als Hintergrundbild in dem Header. Das Bild sollte die ganze Breite des Headers einnehmen, es sollte sich nicht wiederholen und es sollte zentriert sein.  
 
 ### Position
 * Ändere die  Position des Headers zu fixed. Der Header sollte oben auf der Seite sein und kein anderen Inhalt auf der Seite überdecken. 
